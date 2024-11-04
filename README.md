@@ -26,8 +26,8 @@ The system uses the BERT architecture for question answering. Input text (questi
 
 1. **Installation:** `pip install transformers simpletransformers` (and other dependencies listed in the report).
 2. **Data Preparation:**  Download and preprocess the SQuAD dataset.
-3. **Model Training:** Fine-tune the BERT model using the provided BERT script.
-4. **Inference:**  Use the trained model in W2V script to answer questions given a passage.
+3. **Model Training:** Fine-tune the BERT model using the provided train script.
+4. **Inference:**  Use the trained model in BERT script to answer questions given a passage.
 
 
 ## Results
