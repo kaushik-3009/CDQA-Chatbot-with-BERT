@@ -1,4 +1,4 @@
-# Closed-Domain Passage-Based Question Answering System using NLP and Transfer Learning (BERT)
+# Closed-Domain QA System with NLP and Transfer Learning 
 
 ## Abstract
 
