@@ -1,4 +1,5 @@
 # Closed-Domain QA System with NLP and Transfer Learning 
+
 ## Abstract
 This project aims to develop a robust closed-domain question answering system using Bidirectional Encoder Representations from Transformers (BERT) and transfer learning. The system leverages the pre-trained BERT model, fine-tuned on the SQuAD dataset, to accurately answer questions based on given passages of text.  We explore the effectiveness of BERT and transfer learning in enhancing question answering accuracy and discuss potential improvements through further hyperparameter tuning.
 
